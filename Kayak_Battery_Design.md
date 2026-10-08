@@ -64,3 +64,30 @@ Previous early benchmarks: two completed 100Ah 12V batteries collectively ~44lb 
 4. Check lower rail plane and potential cassette floor elevation relative to hull humps, and room for edge mount flanges.
 5. Template strut/stop contact locations; assess structural path before building pack.
 6. Only after above, compare whole-pack orientations, cell/module count, full mechanical compression and installed weight.
+
+## SidioCrate WR/LK off-the-shelf enclosure fit check — 2026-10-08
+**Status: researched / NOT SELECTED.** User asked whether a gasketed SidioCrate case can enclose the battery cassette + BMS while fitting Titan X 10.5 under-seat space. Comparison uses *manufacturer-stated external dimensions*, vendor information for standard WR, and current measured hull constraints. Not a new electrical or cell-format decision.
+
+| Product | Reported external dimensions (inches) | Outcome |
+|---|---|---|
+| Sidio WR Quarter | ~19.96 x 13.16 x 3.66 | Too long for ~14in conservative lower envelope, though low profile. |
+| Sidio WR Half | ~19.9 x 13.16 x ~8.4 (some listings differ) | Too long; tall. |
+| Sidio WR Full | ~19in+ long, ~11in+ tall | Too long and tall. |
+| Sidio LK 1812.6 | **19.05 x 13.97 x 6.18** | Thin enough to consider height in isolation but much too long. |
+| Sidio LK 1812.8 | **19.05 x 13.97 x 8.54** | Too long and tall. |
+| Sidio LK 1812.12 | **19.05 x 13.97 x 13.04** | Too long and tall. |
+| Sidio LK 612.8 | **13.84 x 6.11 x 8.55** | Upright exceeds 8.375in even above low valley and cannot accommodate saddle/rail structure; sideways it might fit a *nominal* lower footprint but needs 3D insertion/cavity checks and has limited battery capacity. |
+| Sidio LK 912.12 | nominal 9x12 footprint and 12in tall | Too tall. |
+
+Sources:
+- https://sidiocrate.com/products/lk-1812-6
+- https://sidiocrate.com/products/lk-1812-8
+- https://sidiocrate.com/products/lk-1812-12
+- https://sidiocrate.com/products/lk-bundle-3-x-612-8
+- https://sidiocrate.com/products/lk-bundle-2-x912-12
+- https://www.bhphotovideo.com/c/product/2000248-REG/sidio_qwr61_water_resistant_sidiocrate_navy_gray.html/overview
+- https://overlandkitted.com/products/half-size-sidiocrate-wr-water-resistant
+
+**Water resistance:** Sidio lists gasketed rain/dust/weather protection, but no verified certified IP67/68 rating was found. Passing battery power cables via glands or holes would modify the closure's environmental integrity; as-built enclosure IP claims would need testing. Latch/case features may be instructive for our *custom-sized* gasketed cover. No current Sidio product is a verified fit for the whole high-energy cassette/BMS, and buying one now is not recommended.
+
+**Important caveat:** No internal usable dimensions were established for all LK formats. Enclosure suitability requires both exterior fit (hull and hatch) and interior fit (cells + compression + BMS + cabling) and an acceptable mounted orientation. The 19in-long models are incompatible with our provisional outer envelope irrespective of internal dimensions.

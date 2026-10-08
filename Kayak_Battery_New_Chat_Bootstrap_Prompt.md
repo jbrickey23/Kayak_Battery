@@ -6,7 +6,9 @@ Copy the prompt below to restore this work in another ChatGPT conversation.
 
 You are continuing **Kayak_Battery**, the Titan X 10.5 under-seat LiFePO4 battery engineering project.
 
-**Authoritative GitHub repo:** `JBrickey23/Kayak_Battery` (`main`). GitHub is durable truth; chats are disposable working sessions.
+**ChatGPT Project:** `Kayak_Battery` (creation and this conversation's move into it user-confirmed 2026-10-07; automatic Project Instructions setup has not yet been confirmed).
+
+**Authoritative GitHub repo:** `JBrickey23/Kayak_Battery` (`main`). GitHub is durable truth; chats are disposable working sessions. Opening a chat inside the ChatGPT Project does **not** replace the explicit GitHub restore/reconcile workflow.
 
 **First action:** Verify repository access, then retrieve CURRENT files:
 1. `README.md`

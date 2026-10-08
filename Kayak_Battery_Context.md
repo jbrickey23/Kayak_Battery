@@ -5,6 +5,7 @@
 - Native Watercraft Titan X 10.5, under-seat hull battery compartment.
 - Initial durable reconciliation: 2026-10-07. Based on extensive user/assistant engineering discussion; no installed/proven final system.
 - GitHub is durable authority; chats are working sessions. Restore before changing decisions.
+- **ChatGPT Project setup (user-confirmed, 2026-10-07):** a ChatGPT Project named `Kayak_Battery` has been created, and this battery-design conversation has been moved into it. GitHub cannot independently verify ChatGPT Project membership. Whether Project Instructions have been configured to automatically restore GitHub on every new chat is **not yet confirmed**.
 
 ## The actual goal
 **Substantially more usable energy with minimum net installed weight, optimized around the real available hull space.** Prior comparison: 12.8V/200Ah (2.56kWh) to 12.8V/280Ah (3.58kWh) = **40% more**. This is an initial performance *benchmark*, NOT a selected cell count, cell model or strict capacity ceiling/floor. The old ~2–3lb incremental estimate compared **bare cell mass** against **finished commercial batteries**, so it does **not** validate finished-pack mass. Consolidation could eliminate a separate ~50Ah electronics battery, its hardware and wiring; weigh the current system before asserting net savings.
